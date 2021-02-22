@@ -20,4 +20,4 @@ Now Run "python alexa.py"
 
 And Speak , Alexa Will Recognise Your Beautiful Voice:
 
-Any Problems Contact Me :- www.instagram.com/@_ig_oxy_/
+Any Problems Contact Me :- www.instagram.com/_ig_oxy_/
