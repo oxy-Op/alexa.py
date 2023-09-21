@@ -12,7 +12,7 @@
 
 Now Run ```python alexa.py```
 
-Speak and she will recognise your voice
+Speak and she will recognize your voice
 
 For any issues, contact us
 
